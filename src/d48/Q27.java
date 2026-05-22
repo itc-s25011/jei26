@@ -5,6 +5,7 @@ public class Q27 {
         int i = 0;
         while(i <= 6){
             Stystem.out.println(i);
+            i++;
         }
     }
 }
