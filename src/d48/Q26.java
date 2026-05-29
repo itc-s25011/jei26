@@ -6,7 +6,7 @@ public class Q26 {
         while (++i < 8) {
             sum += i;
         }
-        System.out.print(sum)
+        System.out.print(sum);
     }
 }
 /*
